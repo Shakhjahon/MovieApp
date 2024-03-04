@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="app">Фильмы</string>
+    <string name="splashScreen">Splash Screen</string>
+    <string name="mainScreen">MainScreen</string>
+    <string name="searchScreen">SearchScreen</string>
+    <string name="saveScreen">SaveScreen</string>
+    <string name="what_do_you_want_to_watch">What do you want to watch?</string>
+    <string name="detail">Detail</string>
+    <string name="search">Search</string>
+    <string name="main">Нет подключение к интернету</string>
+    <string name="action">Action</string>
+    <string name="start_search">Start Search</string>
+    <string name="savescreen">WatchScreen Еще в Разработке</string>
+</resources>
